@@ -1,0 +1,14 @@
+{
+  "name": "blogKaro",
+  "version": "1.0.0",
+  "description": "A Simple Blogging Application ",
+  "main": "index.js",
+  "author": "Aashish <aashishdubey620@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.7.0",
+    "zod": "^3.23.8"
+  }
+}
